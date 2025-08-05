@@ -1,22 +1,89 @@
-# 👋 Greetings! I'm Kajal Singh
+# 👋 Hey there, I'm Kajal Singh
 
-I am a self-taught Full Stack Developer with a deep passion for crafting exceptional web experiences. My technical toolkit includes React, Vanilla JavaScript, TypeScript, Cypress Testing, WordPress, and more recently, the innovative realms of OpenAI and PVA chatbots.
+💻 **Full Stack Developer** • 🖌️ Passionate about crafting web experiences that delight users  
 
-## 🚀 My Expertise:
-From enchanting front-end interfaces to robust back-end solutions, I excel across the full spectrum of web development. I'm driven by the challenges that come with building responsive user interfaces, optimizing application performance, and engineering seamless user interactions.
+🌐 SSE Airtricity | 📍 Based in Dublin | ⏰ UTC +1 | 📫 [singh.kajal940@gmail.com](mailto:singh.kajal940@gmail.com)
 
-## 🌐 Current Explorations:
-Beyond my ongoing projects, I actively explore advancements in Node.js, PHP, and various modern libraries and frameworks. My commitment to writing clean, maintainable code is a philosophy that guides my work.
+---
 
-## 💡 Passion for UI/UX:
-I am particularly passionate about responsive design, user experience, and UI development. My approach to software development involves a meticulous attention to detail and a dedication to solving problems with innovation and patience.
+## 🚀 About Me
 
-## 💻 Life Outside Coding:
-When not immersed in code, I focus on enhancing project outcomes, tackling complex challenges with strategic solutions, and continually improving performance. My career in web design and development feeds my constant appetite for growth and creativity.
+I'm a **self-taught Full Stack Developer** with a strong passion for creating exceptional digital experiences. I specialize in:
 
-## 🌟 User-Centric Design:
-At the heart of every project is my commitment to understanding user needs and delivering products that resonate deeply with audiences. If you're seeking to build extraordinary web solutions or explore AI-driven technologies, let's collaborate!
+- React, TypeScript, and Vanilla JavaScript  
+- Node.js, PHP, and modern backend solutions  
+- WordPress & CMS integration  
+- Cypress Testing and Performance Optimization  
+- Conversational AI (OpenAI, PVA Bots)  
 
-## 📫 Connect With Me:
-Feel free to reach out for project collaborations or to share ideas. Contact me at [singh.kajal940@gmail.com].
+My goal? Build impactful, clean, and user-first solutions that solve real problems.
 
+---
+
+## 🧠 My Technical Philosophy
+
+I believe in writing **clean, scalable code** while ensuring delightful UI/UX. Whether it’s building dynamic dashboards or AI-integrated chatbots, I love tackling complex challenges with creative, maintainable solutions.
+
+---
+
+## 🔍 Current Focus
+
+Lately, I’ve been exploring:
+
+- Node.js & backend automation  
+- Modular front-end architecture  
+- Real-time dashboards & user insights  
+- AI-driven UI assistants using OpenAI + Copilot
+
+---
+
+## 🎨 Design Meets Development
+
+I thrive at the intersection of **design and engineering** — passionate about building intuitive interfaces, improving accessibility, and creating seamless digital journeys.
+
+---
+
+## 🌱 Life Outside the Code
+
+When I’m not coding, you’ll find me:
+
+- Enhancing project outcomes & team collaboration  
+- Exploring creative design trends  
+- Constantly learning & pushing the envelope of what’s possible
+
+---
+
+## 🧭 Let’s Collaborate
+
+I love working with like-minded developers, designers, and AI innovators.  
+If you're building something exciting — let’s connect!
+
+📧 [singh.kajal940@gmail.com](mailto:singh.kajal940@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/singhkajal)
+
+---
+
+## 📌 Featured Projects
+
+Here are a few things I’ve built and enjoyed working on:
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Emotion Prediction using Heart Rate** | Final Year Project focused on AI & Python data processing | Python |
+| **NatorusWebsite** | SASS + HTML animated website template for startups | CSS, SASS |
+| **JS DOM PigGame** | Fun DOM manipulation game using vanilla JS | JavaScript |
+| **JS Budget Tracker** | Budget tracking with ES6 JavaScript | JavaScript |
+| **Image Hover Effects** | Collection of advanced hover effects using SCSS | SCSS |
+| **Expense Tracker** | React JS-based expense tracking app | React, JavaScript |
+
+---
+
+## 📊 GitHub Stats
+
+> _“Little contributions every day build up to big changes.”_  
+
+🟢 [View my recent activity](https://github.com/kajal1106?tab=overview)
+
+---
+
+Thanks for stopping by! ⭐
